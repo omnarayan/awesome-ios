@@ -2077,6 +2077,7 @@ Most of these are paid services, some have free tiers.
 ### UI Testing
 - [appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps.
 - [robotframework-appiumlibrary](https://github.com/serhatbolsu/robotframework-appiumlibrary) - AppiumLibrary is an appium testing library for RobotFramework.
+- [DeviceLab](https://devicelab.dev) - Distributed device lab for running XCUITest and Maestro on local real iOS devices. Supports P2P execution without uploading IPAs to public clouds.
 - [Cucumber](https://cucumber.io/) - Behavior driver development for iOS.
 - [Kif](https://github.com/kif-framework/KIF) - An iOS Functional Testing Framework.
 - [Subliminal](https://github.com/inkling/Subliminal) - An understated approach to iOS integration testing.
